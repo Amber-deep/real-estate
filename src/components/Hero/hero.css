@@ -1,0 +1,31 @@
+.image-container{
+    /* width: 30rem;
+    height: 35rem; */
+    overflow: hidden;
+    border-radius: 15rem 15rem 0 0;
+    border: 8px solid rgba(255, 255, 255, 0.12);
+}
+.imgg{
+    width: 100%;
+}
+.discover h1{
+    font-size:3.2rem;
+    font-weight: 600;
+    line-height: 4rem;
+    z-index: 1 !important;
+}
+.search-bar{
+    width: 93%;
+    background-color: white;
+    border-radius: 5px;
+    border: 3px solid rgba(120, 120, 120, 0.374);
+    padding: 0.5rem 1rem;
+    display: flex;
+    justify-content: space-around;
+}
+.search-bar input{
+    width: 315px;
+    padding: 5px;
+    border-radius: 3px;
+    outline: none;
+}

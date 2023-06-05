@@ -1,0 +1,23 @@
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.styling{
+    border: 0.8px solid #80008030;
+    border-radius: 9px;
+    overflow: hidden;
+    transition: all 0.4s ease-in;
+}
+.styling:hover{
+    scale: 1.05;
+}
+.iconn{
+    padding: 8px 10px;
+    background: #ddd;
+    border-radius: 8px;
+}
+.iconn svg{
+    color: blue;
+}

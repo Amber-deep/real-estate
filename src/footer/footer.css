@@ -1,0 +1,11 @@
+.flex-footer{
+    display: flex;
+    justify-content: space-between;
+
+}
+.ul-styling{
+    display: inline;
+    list-style: none;
+    margin: 0px 6px;
+    font-weight: 600;
+}

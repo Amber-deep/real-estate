@@ -1,0 +1,16 @@
+.btn-styling{
+    border: 0.9px solid white;
+    color: white; 
+    background-color: #ffffff1f;
+    transition: all 0.1s ease-in;
+}
+
+.btn-styling:hover{
+    border: 0.9px solid #ffffff1f;
+    color: black; 
+    background-color: white;
+    scale: 1.01;
+}
+.cont{
+    border-radius: 20px;
+}
